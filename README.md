@@ -1,5 +1,5 @@
 # fantastic-potato
-sister
+command & control
 
 ## Instructions
 1. Set IP and Port in accordance to your system's configuration
