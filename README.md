@@ -1,4 +1,4 @@
-# ideal-giggle
+# fantastic-potato
 sister
 
 ## Instructions
